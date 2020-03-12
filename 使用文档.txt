@@ -1,0 +1,6 @@
+将所有待转换音频文件放入disk下的source目录并将target目录清空（若不清空，遇到重复文件需输入y进行确认）
+点击dist文件夹下的exe文件即可
+
+
+
+audio_convert.py为脚本，可自行修改编译
